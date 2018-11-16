@@ -1,0 +1,14 @@
+###PASOS A SEGUIR PARA EL EJERCICIO DEL EXAMEN
+**1.** Abrimos terminal y yo en mi caso en la carpeta home he creado una carpeta con el comando mkdir llamada Prueba1Git_Github
+
+**2.** Accedemos a la carpeta con el comando cd Prueba1Git_Github/ e inicializamos git con el comando git init.
+
+**3.** Para traerme el repositorio he utilizado el comando git clone (enlace del repositorio).
+
+**4.** He accedido al archivo llamado listado, abriéndolo con el remarkable y he tachado mi nombre de la lista.
+
+**5.** Con el comando git commit -a verficamos el archivo como que esta correcto, se nos abre el nano para ponerle un comentario al commit, en mi caso, el mismo nombre que el repositorio.
+
+**6.** Hacemos git push para mandar el archivo modificado al repositorio de git. No nos pide usuario y email porque anteriormente hemos enlazado el git al ordenador del instituto con la clave ssh.
+
+**7.** Para subir este mismo archivo seguimos los mismos pasos.
