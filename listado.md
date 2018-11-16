@@ -10,7 +10,7 @@ Naranjo Abril, Raúl
 Pérez Labrada, Pedro José
 Prado Izquierdo, Francisco José
 Quevedo García, Salud
-Rabanal Márquez, Fernando Manuel
+~~Rabanal Márquez, Fernando Manuel~~
 Romero Cano, Abraham
 Tirado Román, José Antonio
 Vidal Román, Samuel
